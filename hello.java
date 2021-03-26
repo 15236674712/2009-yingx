@@ -16,4 +16,6 @@
         int a=20;
 		
 		String str="200";
+	    
+	String bbb="str";
     }
