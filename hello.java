@@ -13,4 +13,5 @@
          *  postUrl:   url地址
          * */
         String sms = SMS(postData, postUrl);
+        int a=20;
     }
